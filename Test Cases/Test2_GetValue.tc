@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get value username (standard_user) dan password nya</description>
+   <name>Test2_GetValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d144a52e-d52e-4d91-9a03-b582d4ff6fb4</testCaseGuid>
+</TestCaseEntity>

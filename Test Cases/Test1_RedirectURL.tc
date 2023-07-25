@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser dan direct ke url</description>
+   <name>Test1_RedirectURL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77bdfb31-b474-4da1-aaa9-d23a40119153</testCaseGuid>
+</TestCaseEntity>
